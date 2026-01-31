@@ -1,0 +1,29 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+MazeGen
+MazeGen.exe
+
+# Object files
+*.o
+*.obj
+
+# IDE and editor files
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build directories
+build/
+bin/
+obj/
+Debug/
+Release/
