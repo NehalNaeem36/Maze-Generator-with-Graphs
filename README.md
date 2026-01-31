@@ -197,7 +197,9 @@ This project is open source and available for educational purposes.
 
 ## 👤 Author
 
-Created as a graph algorithms and data structures learning project.
+Created as a graph algorithms and data structures learning project. 
+This project showcases the vast utility and power of C++ memory management
+in a world filled with snakes😏.
 
 ---
 
